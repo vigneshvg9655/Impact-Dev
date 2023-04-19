@@ -1,0 +1,1 @@
+const exa='some string'
